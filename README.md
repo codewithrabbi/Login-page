@@ -1,2 +1,2 @@
 # Login-page
-view live: https://codewithrabbi.github.io/Login-page/
+View Live: https://codewithrabbi.github.io/Login-page/
